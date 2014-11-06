@@ -1,4 +1,4 @@
-Pandorabots-Android-App
-=======================
+OOB-Sample-App
+==============
 
-java and xml demonstrating how to put a pandorabot in your android application using pb-java
+contains the java and xml for a simple android app that demonstrates how to use OOB tags in aiml
