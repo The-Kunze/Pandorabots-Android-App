@@ -1,4 +1,4 @@
-OOB-Sample-App
+Pandorabots-Andoid-App
 ==============
 
-contains the java and xml for a simple android app that demonstrates how to use OOB tags in aiml
+Contains the java and xml for a simple android app that demonstrates how to use a bot in an android app.
