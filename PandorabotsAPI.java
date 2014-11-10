@@ -1,4 +1,4 @@
-package com.example.oobexampleapp;
+package com.example.pandorabotsapp;
 
 import java.io.BufferedReader;
 import java.io.InputStream;

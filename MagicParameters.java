@@ -1,4 +1,4 @@
-package com.example.oobexampleapp;
+package com.example.pandorabotsapp;
 
 import java.io.IOException;
 import java.nio.charset.Charset;

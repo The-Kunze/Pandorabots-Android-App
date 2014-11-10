@@ -1,4 +1,4 @@
-package com.example.oobexampleapp;
+package com.example.pandorabotsapp;
 
 /** Copyright 2014 Dr Richard Wallace */
 
